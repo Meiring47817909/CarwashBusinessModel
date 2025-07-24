@@ -1,4 +1,4 @@
-# Medical practice
+# Carwash business model
 ## To build the carwash model follow these steps:
 1. Open Oracle
 2. Execute the [Table create statements](Table_create_and_drop.sql).
